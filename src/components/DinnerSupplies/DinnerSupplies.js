@@ -1,4 +1,4 @@
-function DinnerSupplies() {
+function DinnerSupplies(guestList) {
   return (
     <div>
         <h2>Dinner Supplies</h2>

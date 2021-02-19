@@ -8,11 +8,11 @@ This application is fully functional! But `App.js` is getting really crowded. It
 
 Create the new components in the following order (increasing level of difficulty):
 
-1 [X] Header
+1.[X] Header
 1.[X] Footer
 1. Guest List
-1. Dinner Supplies
-1. Guest Form
+1.[X]Dinner Supplies
+1.[X]Guest Form
 
 The application should still work the same way. Here is what `App.js` should render when the refactor is complete:
 

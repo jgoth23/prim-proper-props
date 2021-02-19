@@ -2,8 +2,8 @@ function GuestForm({
   newGuestName,
   setNewGuestName,
   newGuestMeal,
-  newGuestMeal,
-  handleSubmit,
+  setNewGuestMeal,
+  handleSubmit
 }) {
   return (
     <div>
